@@ -29,3 +29,6 @@ This Flask application allows users to create their resume by submitting their d
 
 - You can customize the HTML templates (`index.html` and `success.html`) to match your desired UI/UX.
 - Feel free to modify and expand the Flask application further based on your specific requirements and the additional resume/CV details you want to collect and include.
+
+##Contributors
+- @mrafath123 - MOHAMMED RAFATH M
